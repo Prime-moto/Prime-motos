@@ -42,9 +42,9 @@ document.addEventListener('DOMContentLoaded', () => {
         };
 
         const planoValores = {
-            '1': 'R$ 99,99',
-            '2': 'R$ 149,99',
-            '3': 'R$ 199,99'
+            '1': 'R$ 109,99',
+            '2': 'R$ 169,99',
+            '3': 'R$ 269,99'
         };
 
         if (plano && planoNomes[plano]) {
